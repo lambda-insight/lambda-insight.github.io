@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> Lambda insight  on Hugo Grayscale Theme</title>
-    <link>http://example.com/</link>
+    <link>https://lambda-insight.github.io/</link>
     <description>Recent content in  Lambda insight  on Hugo Grayscale Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,7 +10,7 @@
     <webMaster>lambda.insight@gmail.com (Lambda Insight, Kemp House, 152 - 160 City Road, London EC1V 2NX. Incorporated in England &amp; Wales Registration number: 12587855)</webMaster>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lambda-insight.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
