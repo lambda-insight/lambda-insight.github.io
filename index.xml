@@ -8,10 +8,6 @@
     <language>en-us</language>
     <managingEditor>lambda.insight@gmail.com (Lambda Insight, Kemp House, 152 - 160 City Road, London EC1V 2NX. Incorporated in England &amp; Wales Registration number: 12587855)</managingEditor>
     <webMaster>lambda.insight@gmail.com (Lambda Insight, Kemp House, 152 - 160 City Road, London EC1V 2NX. Incorporated in England &amp; Wales Registration number: 12587855)</webMaster>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://lambda-insight.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://lambda-insight.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
